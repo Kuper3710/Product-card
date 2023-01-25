@@ -116,6 +116,10 @@ body{
         padding: 36px 20px;
     }
 
+    .main-container{
+        height: 100%;
+    }
+
     .card{
         flex-direction: column;
         width: 100%;
